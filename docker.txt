@@ -1,0 +1,28 @@
+dzialy ze stepika:
+
+-> tworzenie serwera HTTP w dockerze
+https://www.youtube.com/watch?v=5grbXvV_DSk
+
+-> setup nginexa w dockerze
+https://www.youtube.com/watch?v=qxPdd-geqqA
+
+-> wolumeny
+https://www.youtube.com/watch?v=G-5c25DYnfI
+
+-> podstawowe argumenty docker composa
+https://www.youtube.com/watch?v=HG6yIjZapSA
+
+-> sieci w docker i konfiguracja mikroserwisow
+> konfiguracja sieci typu bridge o okreslonym adresie ip
+> konfiguracia wielu sieci w docker
+
+https://www.youtube.com/watch?v=5grbXvV_DSk
+
+-> docker compose
+
+https://www.youtube.com/watch?v=HG6yIjZapSA
+> tworzenie composa z aplikacja o okreslonej nazwie i okreslonej wersji
+> wyciaganie konfiguracji do pliku .env
+
+https://www.youtube.com/watch?v=1je3VxDF67o
+https://www.youtube.com/watch?v=0JXyJOwVFfo
