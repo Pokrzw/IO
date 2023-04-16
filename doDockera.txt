@@ -1,0 +1,9 @@
+systemctl start docker
+
+tworzenie nowego projektu w c#
+dotnet new
+
+dotnet restore -> install deps
+
+dotnet run -> kompilacja programu
+
